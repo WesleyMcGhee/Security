@@ -1,0 +1,12 @@
+Marriott International
+2014-2018
+
+In 2014 a group of hackers got into the starwood server that belonged to Marriott Hotel, they would continue to be in this server for four years until
+one day in Septermber of 2018.  Going throught the details of the the attack, and Marriott CEO Arne Sorensons testimony to the U.S. Senate, we dont know
+how they got any of their software onto the server, but we do know how they got in.  This data breach affected over 500 million of Marriotts customers,
+this happened after a Remote Access Trojan(RAT), was installed onto the the server, along with MimiKatz.  Now it is most likely that this was put onto 
+the server by a phishing email, that downloaeded the virus to the computer, but what is RAT, and MimiKatz. RAT is a Trojan horse virus that installs
+onto your computer as  a harmless file, but then becomes harmful as it can be used to mine data, or encrypt your files.  MimiKatz, is a password cracking
+software developed to expose some of microsofts insecurites, this was made to be something that was used for Penn testing but got picked up the the black
+hat hackers as well.  This gave access to password hashes, of administrators.  They were able to get onto the administrators side of the server, and access
+100 million credit card numbers, and expiration dates.  Moral of the story is, look at the attachments to all emails that you open. 
